@@ -1,0 +1,1 @@
+# alfred-bulk-snippet-creator
